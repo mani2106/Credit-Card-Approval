@@ -10,4 +10,4 @@ The [notebook](https://colab.research.google.com/drive/1u4Q7uP6u_T6SseD8cNdcGXJo
 I recommend to view the notebook in colab so that the sections and subsections maybe accessed easily
 
 # References
-- Some code was used from demo notebooks in [imodels repo]https://github.com/csinva/imodels.
+- Some code was used from demo notebooks in [imodels repo](https://github.com/csinva/imodels).
