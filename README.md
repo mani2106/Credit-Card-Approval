@@ -5,7 +5,9 @@ Notebook Code and Presentation for Kaggle credit card default challenge
 
 The presentation should contain a few explaining the assumptions and decisions made during the analysis.
 
-The [notebook](https://colab.research.google.com/drive/1u4Q7uP6u_T6SseD8cNdcGXJorU_K115Z?usp=sharing) can also be viewed in Google colab
+The [notebook](https://colab.research.google.com/drive/1u4Q7uP6u_T6SseD8cNdcGXJorU_K115Z?usp=sharing) can also be viewed in Google colab.
+
+I recommend to view the notebook in colab so that the sections and subsections maybe accessed easily
 
 # References
 - Some code was used from demo notebooks in [imodels repo]https://github.com/csinva/imodels.
